@@ -1,6 +1,6 @@
 {
   "name": "@ad0x99/algo-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A collection of algorithms and data structures in JavaScript",
   "main": "index.js",
   "type": "module",
