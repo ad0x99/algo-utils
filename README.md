@@ -1,5 +1,7 @@
 # JavaScript Algorithms and Data Structure
 
+- A collection of Algorithms and Data Structure in JavaScript
+
 ## Table of Contents
 
 - [The Big O Shorthands](#the-big-o-shorthands)
