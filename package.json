@@ -1,0 +1,27 @@
+{
+  "name": "algo-utils",
+  "version": "1.0.0",
+  "description": "A collection of algorithms and data structures in JavaScript",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ad0x99/algo-utils.git"
+  },
+  "author": "ad0x99",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ad0x99/algo-utils/issues"
+  },
+  "homepage": "https://github.com/ad0x99/algo-utils#readme"
+}
